@@ -54,18 +54,25 @@ h1, h2 {
     border-bottom: 1px solid #5C4033;
 }
 
-/* home image */
+/* home image and cover-text */
 
 #home-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
+    
+    position: relative;
+}
+
+#cover-text, #cover-text h2{
+    color: #fafafa;
 }
 
 #home-image {
     height: 600px;
     width: 100%;
     background: url(../images/home-image.jpeg) repeat center center;
+
 
     /* animation of zoom */
     animation-name: home-zoom;
@@ -85,3 +92,46 @@ h1, h2 {
     }
 }
 
+#cover-text {
+    text-align: center;
+    font-size: 140%;
+    font-family: Montserrat, sans-serif;
+    letter-spacing: 4px;
+   
+    width: 300px;
+    height: 250px;
+
+    padding-top: 50px;
+    padding-left: 5px;
+
+    background-color: rgba(92, 64, 51, 0.6);
+
+    bottom: 20px;
+    right: 150px;
+   
+    position: absolute;
+}
+
+/* about us */
+
+#about-us {
+    height: 600px;
+}
+
+#story {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#values {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+#benefits {
+    padding-top: 30px;
+    width: 33%;
+    margin: 0 auto;
+}
