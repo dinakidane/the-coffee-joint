@@ -17,11 +17,36 @@ body {
 h1, h2 {
     font-family: Roboto, sans-serif;
     color: #5C4033;
-    letter-spacing: 4px;
-    color: #654321;
+    letter-spacing: 3px;
 }
 
 #logo {
     float: left;
     font-size: 280%;
+}
+
+/* navigation links */
+
+#tabs {
+    font-size: 115%;
+    letter-spacing: 3px;
+}
+
+#tabs, #logo {
+    line-height: 75px;
+}
+
+#tabs li {
+    float: right;
+    list-style-type: none;
+    margin-right: 40px;
+}
+
+#tabs a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#tabs a:hover {
+    border-bottom: 1px solid #5C4033;
 }
