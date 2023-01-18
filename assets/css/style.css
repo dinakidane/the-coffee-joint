@@ -10,6 +10,7 @@ body {
     font-family: Montserrat, sans-serif;
     font-weight: 300;
     color: #5C4033;
+    background-color: #d8cbc4;
 }
 
 /* headers and logo */
@@ -23,7 +24,9 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 30px;
 }
+
 
 /* navigation links */
 
@@ -50,3 +53,35 @@ h1, h2 {
 #tabs a:hover {
     border-bottom: 1px solid #5C4033;
 }
+
+/* home image */
+
+#home-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#home-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/home-image.jpeg) repeat center center;
+
+    /* animation of zoom */
+    animation-name: home-zoom;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+    }
+
+    /* zoom for home image */
+
+    @keyframes home-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+     transform: scale(1.1);
+
+    }
+}
+
