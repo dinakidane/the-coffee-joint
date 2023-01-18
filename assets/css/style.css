@@ -7,6 +7,21 @@
 }
 
 body {
-    font-family: Roboto, sans-serif;
+    font-family: Montserrat, sans-serif;
     font-weight: 300;
+    color: #5C4033;
+}
+
+/* headers and logo */
+
+h1, h2 {
+    font-family: Roboto, sans-serif;
+    color: #5C4033;
+    letter-spacing: 4px;
+    color: #654321;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
 }
