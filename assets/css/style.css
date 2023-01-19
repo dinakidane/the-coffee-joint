@@ -118,6 +118,12 @@ h1, h2 {
     height: 600px;
 }
 
+#about-us h1 {
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 1em;
+}
+
 #story {
     padding-top: 30px;
     width: 33%;
@@ -133,26 +139,60 @@ h1, h2 {
 #benefits {
     padding-top: 30px;
     width: 33%;
-    margin: 0 auto;
+    float: center;
 }
 
 .story-heading {
     text-align: center;
     letter-spacing: 1px;
+    line-height: 2em;
 }
+
+.story-heading p {
+    margin-top: 1em;
+}
+
 
 .values-heading {
     text-align: center;
     letter-spacing: 1px;
+    line-height: 2em;
+}
+
+.values-heading p {
+    margin-top: 1em;
 }
 
 .benefits-heading {
     text-align: center;
     letter-spacing: 1px;
+    line-height: 3em;
+    margin-top: 1em;
 }
 
-#benefit-list {
-    list-style-type: inherit;
+.benefits-heading ul {
+    margin-top: 1em;
 }
+ 
+ul li {
+    list-style-position: inside;
+ }
 
+ .about-us-cover {
+    font-family: Montserrat, sans-serif;
+    color: #fafafa;
 
+    width: 500px;
+    height: 600px;
+
+    padding-top: 5px;
+    padding-left: 5px;
+
+    background-color: rgba(92, 64, 51, 0.6);
+
+    bottom: 20px;
+    right: 150px;
+   
+    position: fixed;
+
+ }
