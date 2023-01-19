@@ -104,7 +104,7 @@ h1, h2 {
     padding-top: 50px;
     padding-left: 5px;
 
-    background-color: rgba(92, 64, 51, 0.6);
+    background: rgba(92, 64, 51, 0.6);
 
     bottom: 20px;
     right: 150px;
@@ -121,31 +121,45 @@ h1, h2 {
 #about-us h1 {
     font-size: xx-large;
     text-align: center;
-    margin-top: 1em;
+    margin-top: 2em;
+}
+
+#about-us h2 {
+    color: #fafafa;
 }
 
 #story {
+    color: #fafafa;
     padding-top: 30px;
-    width: 33%;
+    width: 30%;
     float: left;
+    margin-left: 3%;
+    margin-bottom: 3%;
 }
 
 #values {
+    color: #fafafa;
     padding-top: 30px;
-    width: 33%;
+    width: 30%;
     float: right;
+    margin-right: 3%;
+    margin-bottom: 3%;
 }
 
 #benefits {
+    color: #fafafa;
     padding-top: 30px;
-    width: 33%;
-    float: center;
+    width: 30%;
+    margin: 0 auto;  
+    margin-bottom: 3%; 
 }
 
 .story-heading {
+    color: #fafafa;
     text-align: center;
     letter-spacing: 1px;
     line-height: 2em;
+    margin-top: 1.5em;
 }
 
 .story-heading p {
@@ -154,9 +168,11 @@ h1, h2 {
 
 
 .values-heading {
+    color: #fafafa;
     text-align: center;
     letter-spacing: 1px;
     line-height: 2em;
+    margin-top: 1.5em;
 }
 
 .values-heading p {
@@ -164,35 +180,23 @@ h1, h2 {
 }
 
 .benefits-heading {
+    color: #fafafa;
     text-align: center;
     letter-spacing: 1px;
     line-height: 3em;
-    margin-top: 1em;
+    margin-top: 1.5em;
+    list-style-position: inside;
 }
 
-.benefits-heading ul {
-    margin-top: 1em;
+.cover-bg {
+    background-color: rgba(92, 64, 51, 0.6);
+}
+
+#benefits .cover-bg {
+    padding-bottom: 9em;
+}
+
+#values .cover-bg {
+    padding-bottom: 2em;
 }
  
-ul li {
-    list-style-position: inside;
- }
-
- .about-us-cover {
-    font-family: Montserrat, sans-serif;
-    color: #fafafa;
-
-    width: 500px;
-    height: 600px;
-
-    padding-top: 5px;
-    padding-left: 5px;
-
-    background-color: rgba(92, 64, 51, 0.6);
-
-    bottom: 20px;
-    right: 150px;
-   
-    position: fixed;
-
- }
