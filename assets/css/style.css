@@ -215,20 +215,60 @@ h1, h2 {
     padding-bottom: 1em;
 }
 
-#opening-times {
-    margin-left: 30%;
+/* Important info */
 
+#opening-times {
+    text-align: center;
+    padding-top: 40px;
+    width: 30%;
+    margin-left: 2.5%;
+    margin-bottom: 3%;
+}
+
+#opening-times ul {
+    margin-top: 1em;
+    line-height: 2em;
+    list-style-type: none;
 }
 
 #address {
-    margin-left: auto;
+    text-align: center;
+    float: right;
+    width: 35%;
+    position: relative;
+    margin-top: -300px;
 }
 
-#socials {
-    text-decoration: none;
+#address p {
+    margin-top: 1em;
+    line-height: 2em;
 }
 
 .details-heading {
     font-size: x-large;
+    line-height: 1em;
     text-decoration: underline;
 }
+
+#center-coffee-pic {
+    background: url('../images/home-coffee.jpeg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+/* social media links */
+
+#socials {
+    text-decoration: none;
+    text-align: center;
+
+}
+
+#socials li {
+    list-style-type: none;
+    font-size: 160%;
+    margin: 1%;
+    
+    
+}
+
