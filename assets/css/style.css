@@ -120,6 +120,7 @@ h1, h2 {
 
 #about-us h1 {
     font-size: xx-large;
+    font-weight: 600;
     text-align: center;
     margin-top: 2em;
 }
@@ -188,15 +189,28 @@ h1, h2 {
     list-style-position: inside;
 }
 
+.benefits-heading p {
+    margin-top: 1em;
+    font-size: 28px;
+}
+
 .cover-bg {
+    padding-top: 1em;
+    padding-bottom: 2em;
     background-color: rgba(92, 64, 51, 0.6);
 }
 
 #benefits .cover-bg {
-    padding-bottom: 9em;
+    padding-bottom: 2.7em;
+    padding-top: 1em;
 }
 
 #values .cover-bg {
-    padding-bottom: 2em;
+    padding-bottom: 4em;
+    padding-top: 1em;
 }
- 
+
+#font-icon {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
