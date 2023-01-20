@@ -196,7 +196,7 @@ h1, h2 {
 
 .cover-bg {
     padding-top: 1em;
-    padding-bottom: 2em;
+    padding-bottom: 4em;
     background-color: rgba(92, 64, 51, 0.6);
 }
 
@@ -213,4 +213,22 @@ h1, h2 {
 #font-icon {
     padding-top: 1em;
     padding-bottom: 1em;
+}
+
+#opening-times {
+    margin-left: 30%;
+
+}
+
+#address {
+    margin-left: auto;
+}
+
+#socials {
+    text-decoration: none;
+}
+
+.details-heading {
+    font-size: x-large;
+    text-decoration: underline;
 }
