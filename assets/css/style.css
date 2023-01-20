@@ -250,25 +250,35 @@ h1, h2 {
     text-decoration: underline;
 }
 
+#coffee-container {
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: -5em;
+}
+
 #center-coffee-pic {
-    background: url('../images/home-coffee.jpeg') no-repeat center center;
+    background: url('../images/—Pngtree—but\ first\ coffee\ quote\ lettering_5696318.png') no-repeat center;
+    background-size: contain;
     height: 100%;
-    border-radius: 50%;
+    width: 100%;
 }
 
 /* social media links */
 
 #socials {
-    text-decoration: none;
     text-align: center;
-
 }
 
-#socials li {
-    list-style-type: none;
+#socials > li {
+    display:inline
+}
+
+#socials i {
     font-size: 160%;
     margin: 1%;
-    
-    
+    padding: 5%;
+    color: #5C4033;
 }
 
