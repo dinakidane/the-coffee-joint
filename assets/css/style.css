@@ -314,7 +314,7 @@ div h3 {
     color: #fafafa;
     font-size: 18px;
     list-style: none;
-    line-height: 1.3em;
+    line-height: 1.5em;
     position: left;
     margin: 1% 1% 1% 1%;
     padding: 1.5% 2% 0 4%;
@@ -325,21 +325,21 @@ div h3 {
     color: #fafafa;
     font-size: 18px;
     list-style-position: inside;
-    line-height: 1.3em;
+    line-height: 1.6em;
     width: 30%;
     margin: 1% 1% 1% 1%;
     padding: 1.5% 2% 0 4%;
 }
 
 #iced {
-    line-height: 3em;
+    line-height: 1.5em;
 }
 
 #food {
     color: #fafafa;
     font-size: 18px;
     list-style-position: inside;
-    line-height: 1.3em;
+    line-height: 1.8em;
     
     width: 30%;
     margin: 1% 1% 1% 1%;
@@ -347,7 +347,7 @@ div h3 {
 }
 
 #barista-warm {
-    line-height: 6em;
+    line-height: 3em;
 }
 
 #food .menu-cover-bg {
@@ -373,7 +373,7 @@ div h3 {
 }
 
 .form-explain li {
-    margin-top: 3%;
+    margin-top: 10%;
     margin-bottom: 3%;
     line-height: 2em;
 }
@@ -385,7 +385,7 @@ div h3 {
     background-color: rgba(92, 64, 51, 0.7);
     max-width: 400px;
     position: absolute;
-    right: 10%;
+    left: 50%;
     padding: 30px;
 }
 
