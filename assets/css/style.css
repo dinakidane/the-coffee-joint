@@ -288,7 +288,7 @@ h1, h2 {
     font-size: 35px;
     font-family: Roboto, sans-serif;
     text-align: center;
-    padding-top: 7%;
+    padding-top: 10%;
 }
 
 #menu-image {
@@ -313,7 +313,7 @@ div h3 {
 #caffeine-fix {
     color: #fafafa;
     font-size: 20px;
-    list-style-position: inside;
+    list-style: none;
     line-height: 1.3em;
     position: left;
     margin: 1% 1% 1% 1%;
@@ -331,8 +331,8 @@ div h3 {
     padding: 1.5% 2% 0 4%;
 }
 
-#add-ons p {
-    line-height: 5em;
+#iced {
+    line-height: 3em;
 }
 
 #food {
@@ -346,8 +346,8 @@ div h3 {
     padding: 1.5% 2% 0 4%;
 }
 
-#food p {
-    line-height: 10em;
+#barista-warm {
+    line-height: 6em;
 }
 
 #food .menu-cover-bg {
