@@ -312,7 +312,7 @@ div h3 {
 
 #caffeine-fix {
     color: #fafafa;
-    font-size: 20px;
+    font-size: 18px;
     list-style: none;
     line-height: 1.3em;
     position: left;
@@ -323,7 +323,7 @@ div h3 {
 
 #add-ons {
     color: #fafafa;
-    font-size: 20px;
+    font-size: 18px;
     list-style-position: inside;
     line-height: 1.3em;
     width: 30%;
@@ -337,7 +337,7 @@ div h3 {
 
 #food {
     color: #fafafa;
-    font-size: 20px;
+    font-size: 18px;
     list-style-position: inside;
     line-height: 1.3em;
     
@@ -378,13 +378,14 @@ div h3 {
     line-height: 2em;
 }
 
-.form-section {
-    margin: 150px 10% 0 0;
+#form-section {
+    margin: 150px 5% 10% 10%;
     color: #fff;
+    line-height: 4em;
     background-color: rgba(92, 64, 51, 0.7);
     max-width: 400px;
     position: absolute;
-    left: 10%;
+    right: 10%;
     padding: 30px;
 }
 
