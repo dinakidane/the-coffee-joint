@@ -400,7 +400,7 @@ div h3 {
 }
 
 .register-socials {
-    padding-top: 10%;
+    padding-top: 5%;
 }
 
 #submit-register {
@@ -413,3 +413,60 @@ div h3 {
 #yes {
     margin-right: 50px;
 }
+
+/* Media queries */
+
+/* For larger to medium screen size from 1200px wide and down */
+
+@media screen and (max-width:1200px) {
+    #about-us {
+        width: 90%;
+        height:1200px;
+        margin: 0 auto;
+    }
+
+    #welcome {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    #story {
+        width: 100%;
+        margin: 0;
+        padding-left: 0;
+    }
+
+    #values {
+        clear: both;
+        width: 100%;
+        margin: 0;
+        padding-left: 0;
+    }
+    
+    #benefits {
+        clear: both;
+        width: 100%;
+        margin: 0;
+        padding-left: 0;
+
+    }
+
+
+    #opening-times {
+        text-align: center;
+        float: left;
+    }
+
+    #address {
+        text-align: center;
+        float: right;
+        
+    }
+    
+}
+    
+    
+    
+
+/* For small screen sizes 800px and down */
+
