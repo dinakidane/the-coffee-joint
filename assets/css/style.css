@@ -372,7 +372,7 @@ div h3 {
 }
 
 .form-explain {
-    margin: 150px 10% 10% 0;
+    margin: 50px 10% 10% 0;
     color: #fff;
     background-color: rgba(92, 64, 51, 0.7);
     max-width: 400px;
@@ -381,16 +381,17 @@ div h3 {
     padding: 30px;
 }
 
-.form-explain li {
-    margin-top: 10%;
-    margin-bottom 7%;
-    line-height: 1.5em;
+.form-explain {
+    margin-top: 50px;
+    margin-bottom: 10%;
+    padding: 30px;
+    line-height: 2.36em;
 }
 
 #form-section {
-    margin: 150px 5% 10% 10%;
+    margin: 50px 10% 10% 10%;
     color: #fff;
-    line-height: 3.56em;
+    line-height: 2.7em;
     background-color: rgba(92, 64, 51, 0.7);
     max-width: 400px;
     position: absolute;
@@ -399,6 +400,16 @@ div h3 {
 }
 
 .register-socials {
-    padding-top: 50%;
+    padding-top: 10%;
 }
 
+#submit-register {
+    color: #5C4033;
+    margin-left: 50px;
+    padding: 10px; 
+    background-color: #fff;
+}
+
+#yes {
+    margin-right: 50px;
+}

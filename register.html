@@ -30,8 +30,10 @@
             </ul>
         </nav>
     </header>
-   
-    <h1 id="register-h1">Let's Sign You Up!</h1>
+
+    <h1 id="register-h1">Let's get you signed up!</h1>
+
+<div id="menu-image">
     <div class="form-explain">
         <h2>Register for a Coffee Joint Card to collect points!</h2>
 
@@ -56,8 +58,10 @@
             <p><label for="email">Email Address:</label>
             <input id="email" type="email" name="email_address" placeholder=" Email" required></p>
 
-            <p><label for="address">Home Address: </label>
-            <input id="home_address" type="text" name="home_address" placeholder=" Your address" required></p>
+            <p><label for="address">Home Address: </label></p>
+            <textarea id="feedback" rows="5" cols="20" placeholder="Your address" required>
+            </textarea>
+            
             
             
             
@@ -69,10 +73,12 @@
             <label for="no">No</label>
             <input id="no" type="radio" name="no" value="no">
             
-            <input type="submit" value="Register!">
+            <input type="submit" value="Register!" id="submit-register">
         </form>
         
     </section>
+</div>
+    
 
     <footer>
         <ul id="socials" class="register-socials">
