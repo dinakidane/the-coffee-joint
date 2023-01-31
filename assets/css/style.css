@@ -400,15 +400,27 @@ div h3 {
 }
 
 .register-socials {
-    padding-top: 5%;
+    list-style-type: none;
+    text-align: center;
+    font-size: 160%;
+    color: #5C4033;
+
+    list-style-type: none;
+    
+    margin: 10%; 
+    padding-top: 35%;
+
 }
 
-#submit-register {
+.register-socials > ul {
+    list-style: none;
+    display: flexbox;
+    margin: 1%;
+    padding: 5%;
     color: #5C4033;
-    margin-left: 50px;
-    padding: 10px; 
-    background-color: #fff;
 }
+
+
 
 #yes {
     margin-right: 50px;
