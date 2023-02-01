@@ -404,9 +404,9 @@ div h3 {
 
 /* Media queries */
 
-/* For larger to medium screen size from 950px wide and down */
+/* For larger to medium screen size from 1200px wide and down */
 
-@media screen and (max-width:1100px) {
+@media screen and (max-width:1200px) {
     #about-us {
         width: 90%;
         height:1200px;
@@ -438,39 +438,46 @@ div h3 {
         padding-left: 0;
 
     } 
-}
-
-/* For small screen sizes 700px and down */
-
-@media screen and (max-width:800px) {
-    
     #opening-times {
-        position: absolute;
         float: left;
-        margin-top: 110%;
+        top: 365%;
+        left: 33%;
+
+        position: absolute;
+        
     }
    
     #address {
-        position: relative;
-        float: right;
-        margin-top: 110%;
+        float: left;
+        top: 455%;
+        left: 33%;
+
+        position: absolute;
+        
     }
+    
     #socials {
         text-align: center;
+        
+
     }
     
     #socials > li {
         display:inline;
         text-align: center;
+        
     
 
     }
     
-    
     #socials i {
         font-size: 160%;
-        margin-top: 150%;
+        margin-top: 110%;
         padding: 5%;
         color: #5C4033;
+        
     }
-}  
+}
+
+
+
