@@ -57,7 +57,7 @@ h1, h2 {
 /* home image and cover-text */
 
 #home-outer {
-    height: 600px;
+    height: unset;
     width: 100%;
     overflow: hidden;
     
@@ -115,7 +115,7 @@ h1, h2 {
 /* about us */
 
 #about-us {
-    height: 600px;
+    height: unset;
 }
 
 #about-us h1 {
@@ -222,8 +222,9 @@ h1, h2 {
     text-align: center;
     padding-top: 40px;
     width: 30%;
-    margin-left: 2.5%;
-    margin-bottom: 3%;
+    margin-left: unset;
+    margin-bottom: unset;
+    margin: auto;
 }
 
 #opening-times ul {
@@ -237,7 +238,8 @@ h1, h2 {
     float: right;
     width: 35%;
     position: relative;
-    margin-top: -300px;
+    margin-top: unset;
+    margin: auto;
 }
 
 #address p {
@@ -408,9 +410,8 @@ div h3 {
 
 @media screen and (max-width:1200px) {
     #about-us {
-        width: 90%;
-        height:1200px;
-        margin: 0 auto;
+        height:unset;
+        
     }
 
     #welcome {
@@ -439,45 +440,50 @@ div h3 {
 
     } 
     #opening-times {
-        float: left;
-        top: 365%;
-        left: 33%;
-
-        position: absolute;
+        float: unset;
+        top: unset;
+        left: unset;
+        position: unset;
+        margin: auto;
+        display: block;
+        padding: 20px;
         
     }
    
     #address {
-        float: left;
-        top: 455%;
-        left: 33%;
-
-        position: absolute;
+        float: unset;
+        top: unset;
+        left: unset;
+        position: unset;
+        margin: auto;
+        display: block;
+        padding: 20px;
         
     }
     
     #socials {
         text-align: center;
         
-
+    
     }
     
     #socials > li {
         display:inline;
         text-align: center;
-        
     
-
     }
-    
+
     #socials i {
         font-size: 160%;
-        margin-top: 110%;
+        margin-top: unset;
         padding: 5%;
         color: #5C4033;
+    }    
         
-    }
 }
+
+
+
 
 
 
