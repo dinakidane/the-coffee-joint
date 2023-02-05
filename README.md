@@ -1,4 +1,6 @@
-The Coffee Joint Website
+# The Coffee Joint
+
+[View my live project here](https://8000-dinakidane-thecoffeejoi-dzy8zyltpkb.ws-eu85.gitpod.io/index.html)
 
 write summary of what the website is about and what it is useful for
 
