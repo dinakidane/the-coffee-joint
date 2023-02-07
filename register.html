@@ -19,13 +19,13 @@
         <nav>
             <ul id="tabs">
                 <li>
-                    <a href="register.html" class="active">Register</a>
+                    <a href="index.html">Home</a>
                 </li>
                 <li>
                     <a href="menu.html">Menu</a>
                 </li>
                 <li>
-                    <a href="index.html">Home</a>
+                    <a href="register.html" class="active">Register</a>
                 </li>
             </ul>
         </nav>
@@ -33,49 +33,51 @@
 
     <h1 id="register-h1">Let's get you signed up!</h1>
 
-    <div id="menu-image">
-        <div class="form-explain">
-            <h2>Register for a Coffee Joint Card to collect points!</h2>
+    
+            
+            <div class="form-explain form-container">
+                <h2>Register for a Coffee Joint Card to collect points!</h2>
 
-            <h3>How it works</h3>
-            <ul>
-                <li>Put your details in and we will send you your own personal Coffee Joint card!</li>
-                <li>Collect points by giving the barista your card to scan the barcode whenever you buy an item from us</li>
-                <li>Each £ equals 3 points and you recieve a free drink every 150 points!</li>
-            </ul>
-        </div>
+                <h3>How it works</h3>
+                <ul>
+                    <li>Put your details in and we will send you your own personal Coffee Joint card!</li>
+                    <li>Collect points by giving the barista your card to scan the barcode whenever you buy an item from us</li>
+                    <li>Each £ equals 3 points and you recieve a free drink every 150 points!</li>
+                </ul>
+            </div>
+    
+    
+        <form action="https://formdump.codeinstitute.net/" method="POST" id="form-section" class="form-container">
+            
+            
+                <label for="fname">First Name:</label>
+                <input id="fname" type="text" name="first_name" placeholder=" First Name" required>
+            
+                <p><label for="lname">Last Name:</label>
+                <input id="lname" type="text" name="last_name" placeholder=" Last Name" required></p>
+            
+                <p><label for="email">Email Address:</label>
+                <input id="email" type="email" name="email_address" placeholder=" Email" required></p>
+
+                <p><label for="address">Home Address: </label></p>
+                <textarea id="feedback" rows="5" cols="20" placeholder="Your address" required>
+                </textarea>
+            
+            
+            
+            
+                <h3>Would you like to recieve emails about our latest news and deals?</h3>
+            
+                <label for="yes">Yes</label>
+                <input id="yes" type="radio" name="yes" value="yes">
+            
+                <label for="no">No</label>
+                <input id="no" type="radio" name="no" value="no">
+            
+                <input type="submit" value="Register!" id="submit-register">
+        </form>
     </div>
     
-    <form action="https://formdump.codeinstitute.net/" method="POST" id="form-section">
-            
-            
-            <label for="fname">First Name:</label>
-            <input id="fname" type="text" name="first_name" placeholder=" First Name" required>
-            
-            <p><label for="lname">Last Name:</label>
-            <input id="lname" type="text" name="last_name" placeholder=" Last Name" required></p>
-            
-            <p><label for="email">Email Address:</label>
-            <input id="email" type="email" name="email_address" placeholder=" Email" required></p>
-
-            <p><label for="address">Home Address: </label></p>
-            <textarea id="feedback" rows="5" cols="20" placeholder="Your address" required>
-            </textarea>
-            
-            
-            
-            
-            <h3>Would you like to recieve emails about our latest news and deals?</h3>
-            
-            <label for="yes">Yes</label>
-            <input id="yes" type="radio" name="yes" value="yes">
-            
-            <label for="no">No</label>
-            <input id="no" type="radio" name="no" value="no">
-            
-            <input type="submit" value="Register!" id="submit-register">
-    </form>
-
     <footer>
     
         <ul id="socials">

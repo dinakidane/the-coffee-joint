@@ -33,6 +33,10 @@ h1, h2 {
 #tabs {
     font-size: 115%;
     letter-spacing: 3px;
+    display: flex;
+    float: right;
+    list-style-type: none;
+    margin-right: 40px;
 }
 
 #tabs, #logo {
@@ -293,11 +297,10 @@ h1, h2 {
     font-size: 35px;
     font-family: Roboto, sans-serif;
     text-align: center;
-    padding-top: 10%;
+    padding-top: 8%;
 }
 
 #menu-image {
-    height: 600px;
     width: 100%;
     margin-top: 30px;
     display: flex;
@@ -338,6 +341,7 @@ div h3 {
 
 #iced {
     line-height: 1.5em;
+    font-style: oblique;
 }
 
 #food {
@@ -353,6 +357,7 @@ div h3 {
 
 #barista-warm {
     line-height: 3em;
+    font-style: oblique;
 }
 
 #food .menu-cover-bg {
@@ -370,9 +375,22 @@ div h3 {
 #register-h1 {
     font-size: 35px;
     font-family: Roboto, sans-serif;
+
+    display: inline-flex;
+    margin-left: 7%;
     text-align: center;
     padding-top: 8%;
+    
 }
+
+#register-image {
+    width: 100%;
+    margin-top: 30px;
+    display: flex;
+    background: url(../images/home-image.jpeg) center center;
+
+}
+
 
 .form-explain {
     color: #fff;
@@ -538,29 +556,16 @@ div h3 {
 /* For larger to medium screen size from 1100px wide and down, menu page */
 
 @media screen and (max-width:1000px) {
+
+    #menu-heading {
+        text-align: center;
+        display: inline-flex;
+    }
     
     #menu-image {
         flex-direction: column;
         align-items: center;
         justify-content: space-between;
-    }
-    #socials {
-        text-align: center;
-        
-    
-    }
-    
-    #socials > li {
-        display:inline;
-        text-align: center;
-    
-    }
-
-    #socials i {
-        font-size: 160%;
-        margin-top: unset;
-        padding: 5%;
-        color: #5C4033;
     }    
 
     #caffeine-fix {
@@ -571,6 +576,7 @@ div h3 {
         position: left;
         margin: 1%;
         padding: 5% 20% 0 20%;
+        
     
     }
     
@@ -581,6 +587,7 @@ div h3 {
         line-height: 1.6em;
         margin: 1%;
         padding: 5% 20% 0 20%;
+        
     }
     
     #iced {
@@ -604,3 +611,14 @@ div h3 {
     
    
 }
+
+@media screen and (max-width:850) {
+    #tabs {
+        display: inline-block;
+        margin: unset;
+    }
+}
+
+/* For larger to medium screen size from 1100px wide and down, register page */
+
+background: url(../images/home-image.jpeg) repeat center center;
