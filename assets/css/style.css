@@ -323,7 +323,6 @@ div h3 {
     font-size: 18px;
     list-style: none;
     line-height: 1.5em;
-    position: left;
     margin: 1% 1% 1% 1%;
     padding: 1.5% 2% 0 4%;
 
@@ -414,6 +413,33 @@ div h3 {
 
 #yes {
     margin-right: 50px;
+}
+
+#no {
+    margin-right: 30px;
+}
+
+label {
+    cursor: default;
+
+}
+
+.register-box-style {
+    height: 23px;
+    background-color: rgb(218, 197, 188);
+}
+
+#feedback {
+    background-color: rgb(218, 197, 188);
+}
+
+#submit-register {
+    margin-right: 50px;
+    font-size: 12px;
+    box-sizing: border-box;
+    background-color: rgb(218, 197, 188);
+    padding: 10px;
+
 }
 
 /* Media queries */
@@ -567,7 +593,6 @@ div h3 {
         font-size: 18px;
         list-style: none;
         line-height: 1.5em;
-        position: left;
         margin: 1%;
         padding: 5% 20% 0 20%;
         
@@ -609,13 +634,3 @@ div h3 {
     }
 }
 
-@media screen and (max-width:850) {
-    #tabs {
-        display: inline-block;
-        margin: unset;
-    }
-}
-
-/* For larger to medium screen size from 1100px wide and down, register page */
-
-background: url(../images/home-image.jpeg) repeat center center;
