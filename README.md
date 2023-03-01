@@ -6,6 +6,18 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
 
 ![Responsive Image](./assets/images/responsive-image.png)
 
+## Features
+
+
+### Existing Features
+
+
+- __Navigation Bar__
+    
+    - The entire responsive navigation bar, which is present on all three pages and remains unchanged on each one for the convenience of users, contains links to the Logo, Home page, Menu, and Register page. This section will make it simple for users to move between pages on all devices without having to use the "back" button to go back to the previous page.
+
+![Navigation Bar](./assets/images/navigation-bar.png)
+
 index page - contents
 
 user experience
