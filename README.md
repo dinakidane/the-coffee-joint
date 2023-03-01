@@ -51,6 +51,16 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
 
     ![Footer](./assets/images/footer.png)
 
+- __Menu__
+
+    - The menu will include the beverages and a small selection of pastries and bakery food. This is also followed by the list of add-ons that are available and the prices for each product. 
+    - It also portrays the variety of products we sell, allowing customers to have a range of options to choose from.
+    - The menu page also gives a sense of communication between the Cafe and online users as relevant information is being shared with them.
+
+    ![Menu](./assets/images/menu.png)
+
+
+
 index page - contents
 
 user experience
