@@ -38,7 +38,18 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
 
 - __Location and Opening Times__
 
-    - 
+    - To make things simpler for the user, this section will allow them to see the exact time the cafe opens in addition to its precise location and closest train station.
+    - This is displayed below the About Us section as it is extra information for new customers who may want to visit the Cafe.
+
+    ![Location and Opening times](./assets/images/times-address.png)
+
+
+- __Footer__
+
+    - Links to the appropriate social networking platforms for The Coffee Joint are provided in the footer area. 
+    - In order to facilitate user navigation, the links will open in a new tab. The user benefits from the footer since it encourages them to maintain their social network connections.
+
+    ![Footer](./assets/images/footer.png)
 
 index page - contents
 
