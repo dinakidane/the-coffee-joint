@@ -18,16 +18,27 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
     - This section will make it simple for users to move between pages on all devices without having to use the "back" button to go back to the previous page.
     - Visitors will be able to surf the website for longer if they feel secure in their location and the information it offers. Searches can be done by visitors with ease thanks to navigation.
 
+    
     ![Navigation Bar](./assets/images/navigation-bar.png)
 
 - __Landing Page Image__
 
-    - The image illustrates 3 cups of coffee, to clearly illustrate that this is a Cafe website. 
-    - A text overlay is also included on top of the picture with a catchy slogan to attract customers. It clearly states one of the target audiences, 
+    - The image illustrates 3 cups of coffee, to clearly portray that this is a website for a Cafe. 
+    - A text overlay is also included on top of the picture with a catchy slogan to attract customers. It clearly states one of the target audiences, coffee lovers, which would attract them to browse the site.
 
-    ![Navigation Bar](./assets/images/landing-page.png)
+    ![Landing Page](./assets/images/landing-page.png)
 
+- __About Us__
 
+    - The about us section aims to entice people to make the Cafe Joint the place to get their 'go-to' coffee.
+    - It includes a section about the history of the Cafe, the benefits of Coffee and the values that they aim to keep.
+    - These three sections attempt to establish a relationship with visitors to the site by giving users a taste of what the Coffee Joint is all about. As a result, new clients are drawn in as they discover the cafe's history.
+
+    ![About Us](./assets/images/about-us.png)
+
+- __Location and Opening Times__
+
+    - 
 
 index page - contents
 
