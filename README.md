@@ -64,7 +64,7 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
     - On this page, the user is able to sign up for a Coffee Joint card to collect points, which will eventually lead to rewards.
     - The main aim for this is to motivate customers to get their beverages from the Coffee Joint, allowing a rapport to also be built between the Cafe and the customers.
     - This is done by the online user adding their full name, email and address to the form and clicking on the register button. 
-    - The form also gives an option to the user to allow them to decide whether they want to recieve news and deals from the Cafe
+    - The form also gives an option to the user to allow them to decide whether they want to recieve news and deals from the Cafe.
     
     ![Register](./assets/images/register-page.png)
 
@@ -97,7 +97,21 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
     - Safari on macOS X 10.11 El Capitan
     - Microsoft Edge Version 110.0. 1587.41
 
-### 
+### Testing the features
+![Tests](./assets/images/tests-one.png)
+![Tests](./assets/images/tests-two.png)
+
+### Responsiveness
+![Responsiveness](./assets/images/responsiveness.png)
+
+## Unknown Bugs
+
+The register button border box has changed shape and its font color, but this has only happened on a mobile screen. The solution to this bug has still not been found. 
+
+![Bug](./assets/images/bugs.jpeg)
+
+
+
 
 
 
