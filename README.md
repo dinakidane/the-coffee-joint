@@ -174,7 +174,7 @@ The register button border box has changed shape and its font color, but this ha
 
 ## Deployment
 
-### The Deployment of the website
+### The Remote Deployment of the website
 
 - Go to the repository on Github and click on the settings icon
 - On the left hand side of the site, click on Pages
@@ -183,6 +183,17 @@ The register button border box has changed shape and its font color, but this ha
 - Everything that has been git pushed will be pushed onto this specific branch
 - It'll then be refreshed and the link to the deployed website will be on there
 - This is the deployed link: [https://8000-dinakidane-thecoffeejoi-dzy8zyltpkb.ws-eu85.gitpod.io/index.html](https://8000-dinakidane-thecoffeejoi-dzy8zyltpkb.ws-eu85.gitpod.io/index.html)
+
+### Cloning the repository
+
+- Go to the [repository](https://github.com/dinakidane/the-coffee-joint) on github
+- Click 'code' on the right part of the page
+- Click HTTPs, making sure not to click the others
+- Click copy
+- Open a GitBash terminal
+- Go to the directory you wish to paste the clone link in
+- Type 'git clone' in the terminal and paste it in
+- click enter to start the process
 
 ## Credits
 
@@ -214,12 +225,3 @@ The register button border box has changed shape and its font color, but this ha
 
 
 
-
-index page - contents
-
-user experience
-    intended audience
-    goals for:
-        first time visitor
-        return visitor
-        frequent visitor
