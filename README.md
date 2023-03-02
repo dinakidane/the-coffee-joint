@@ -219,8 +219,9 @@ The register button border box has changed shape and its font color, but this ha
     - [To keep the footer at the bottom of the page](https://matthewjamestaylor.com/bottom-footer)
     - [To ensure that an accurate colour code was used](https://www.w3schools.com/cssref/css_colors.php)
 
+## Acknowledgements
 
-
+A big thank you to my mentor, Elaine Broche, for the constructive feedback and advice that was given in our meetings. I can say, with confidence, that it was extremely useful throughout this time. Another thank you to those on slack and on tutor support, who provided me with an immense amount of support, especially when I thought I wouldn't be able to do it.
 
 
 
