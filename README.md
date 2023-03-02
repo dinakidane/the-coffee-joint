@@ -51,13 +51,23 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
 
     ![Footer](./assets/images/footer.png)
 
-- __Menu__
+- __Menu Page__
 
     - The menu will include the beverages and a small selection of pastries and bakery food. This is also followed by the list of add-ons that are available and the prices for each product. 
     - It also portrays the variety of products we sell, allowing customers to have a range of options to choose from.
     - The menu page also gives a sense of communication between the Cafe and online users as relevant information is being shared with them.
 
     ![Menu](./assets/images/menu.png)
+
+- __Register Page__
+
+    - On this page, the user is able to sign up for a Coffee Joint card to collect points, which will eventually lead to rewards.
+    - The main aim for this is to motivate customers to get their beverages from the Coffee Joint, allowing a rapport to also be built between the Cafe and the customers.
+    - This is done by the online user adding their full name, email and address to the form and clicking on the register button. 
+    - The form also gives an option to the user to allow them to decide whether they want to recieve news and deals from the Cafe
+    
+    ![Register](./assets/images/register-page.png)
+
 
 
 
