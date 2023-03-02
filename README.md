@@ -6,6 +6,26 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
 
 ![Responsive Image](./assets/images/responsive-image.png)
 
+## User Experience
+
+### Target Audience
+- People who are regular customers at the Cafe
+- People who are interested in coming to the Cafe for the first time
+- People who are familiar with coffee, but now want to broaden their taste in coffee 
+
+### User Stories
+
+- Regular customers and coffee enthusiasts
+    - They are able to register for a Coffee Joint card to redeem points and recieve rewards, motivating them to buy drinks as often as they can.
+
+- Those who are new to the cafe
+    - They are able easily navigate through the site  to look at the location and opening times of the Coffee Joint.
+    - They are able to look at the history and values of the Cafe to understand the background and where it came from.
+
+- Those who are familiar with coffee but what to broaden their taste in it 
+    - There is a variety of different types of coffee available, as well as multiple choices of add ons to alter their beverage in the way they would like
+    - There are social media links on every page that are set at the bottom. They are able to ask questions at any time by directly messaging the Coffee Joint page on all social media sites.
+
 ## Features
 
 
@@ -83,6 +103,15 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
 
 ![Colour](./assets/images/colour-scheme.png)
 
+### Imagery
+
+- The main image used remains throughout the site. This ensures that the online user, especially a new user, does not feel overwhelmed with a lot of images. Hence, the simplicity in using only one main image throughout the site.
+
+![Main image](./assets/images/home-image.jpeg)
+
+### Typography 
+
+- Pairing the Roboto and Montserrat font styles together was to bring out a modern feel to the website, as well as maintain simplicity and a clear read for the user. 
 
 ## Testing
 
