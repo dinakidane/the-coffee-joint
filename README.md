@@ -68,6 +68,11 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
     
     ![Register](./assets/images/register-page.png)
 
+### Features Left to Implement
+
+- Another feature that would be implemented in the future is a sticky navigation bar, specifically in the homepage. 
+- This would have made it easier for online users to navigate between pages or parts of a website while keeping track of where they are in relation to the page's scrolling. 
+- It also would've made it quicker for them to browse the site.
 
 
 
