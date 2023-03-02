@@ -74,6 +74,38 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
 - This would have made it easier for online users to navigate between pages or parts of a website while keeping track of where they are in relation to the page's scrolling. 
 - It also would've made it quicker for them to browse the site.
 
+## Testing
+
+### Validator Testing
+
+- [W3C Testing for HTML](https://validator.w3.org/#validate_by_input)
+    - The closing unordered list element was missing on line 93 in index.html
+    - The closing footer element wasn't aligned under the opening footer properly
+     
+    - All errors have now been fixed - The result for index.html, menu.html and register.html:
+        - ![Html validator](./assets/images/w3c-validator.png)
+
+- [W3C Testing for CSS](https://jigsaw.w3.org/css-validator/#validate_by_input)
+    - There was an error that declared that position: left was not a valid value.
+    - All errors have now been fixed:
+        - ![CSS validator](./assets/images/w3c-css.png)
+
+### Browser Compatibility
+
+- Tested on:
+    - Google Chrome on macOS 110.0.5481.177
+    - Safari on macOS X 10.11 El Capitan
+    - Microsoft Edge Version 110.0. 1587.41
+
+### 
+
+
+
+
+
+
+
+
 
 
 index page - contents
@@ -84,14 +116,3 @@ user experience
         first time visitor
         return visitor
         frequent visitor
-
-features
-    title linked to homepage in every page
-    navigation bar
-    opening hours, address
-    footers, socials
-    menu page
-
-
-[def]: path/to/images/responsive-image.png
-[def2]: https://github.com/dinakidane/the-coffee-joint/blob/ae940ed503fd7f0ac4cd14972484b8735539d2dd/assets/images/responsive-image.png
