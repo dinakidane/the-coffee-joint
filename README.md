@@ -118,8 +118,36 @@ The register button border box has changed shape and its font color, but this ha
 
 ![Fixed Bug](./assets/images/fixed-bugs.png)
 
+## Deployment
 
+### The Deployment of the website
 
+- Go to the repository on Github and click on the settings icon
+- On the left hand side of the site, click on Pages
+- Click on 'source' and then click on deploy from branch
+- Click on main to ensure that it deploys from the main branch
+- Everything that has been git pushed will be pushed onto this specific branch
+- It'll then be refreshed and the link to the deployed website will be on there
+- This is the deployed link: [https://8000-dinakidane-thecoffeejoi-dzy8zyltpkb.ws-eu85.gitpod.io/index.html](https://8000-dinakidane-thecoffeejoi-dzy8zyltpkb.ws-eu85.gitpod.io/index.html)
+
+## Credits
+
+### Content
+
+- The benefits of coffee section on the home page were mostly inspired from a [Healthline website](https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee)
+- The products on the menu page were inspired by the [Starbucks Menu](https://www.starbucks.co.uk/menu)
+- The idea of the Coffee Joint card on the Register page was inspired by the [Starbucks Rewards System](https://www.starbucks.co.uk/rewards)
+- Every icon on the home and menu page was from [Font Awesome](https://fontawesome.com/v5/search)
+
+### Media
+
+- Images
+    - Landing page image that is used consistely throughout all web pages is from [Google images](https://lh3.googleusercontent.com/Ph9dCaH2FSr-pTdoKEqJftR0e_vpUwh0RxRR-d4lyA_D8qrqMN0aMwRs1UsCPNuGFvDdoGGWK1uE5Op46A-UnjMJiXxoQBU-fgsg8ZE)
+    - The 'But first, Coffee' image was imported from a website called [pngtree](https://pngtree.com/freepng/but-first-coffee-quote-lettering-typography_5696318.html)
+
+- Fonts
+    - The main font style that was used, Roboto and Montserrat, were found on [Google Fonts](https://fonts.google.com/)
+    - The inspiration to pair these two fonts together came from this site: [36 perfect font pairings](https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120)
 
 
 
