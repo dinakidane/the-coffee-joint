@@ -74,6 +74,16 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
 - This would have made it easier for online users to navigate between pages or parts of a website while keeping track of where they are in relation to the page's scrolling. 
 - It also would've made it quicker for them to browse the site.
 
+## Design
+
+### Colour Scheme
+
+- A consistent shade of brown is used throughout the website. The transparency of the brown is aimed to bring out the main image more. 
+- The image below shows the 3 different shades of brown. These shades of brown were used consistently, as they were considered to be suitable to use as it fits in with the theme of coffee and cafes. 
+
+![Colour](./assets/images/colour-scheme.png)
+
+
 ## Testing
 
 ### Validator Testing
@@ -149,6 +159,10 @@ The register button border box has changed shape and its font color, but this ha
     - The main font style that was used, Roboto and Montserrat, were found on [Google Fonts](https://fonts.google.com/)
     - The inspiration to pair these two fonts together came from this site: [36 perfect font pairings](https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120)
 
+- Code
+    - [To understand flexbox](https://www.youtube.com/watch?v=9e-lWQdO-DA) 
+    - [To keep the footer at the bottom of the page](https://matthewjamestaylor.com/bottom-footer)
+    - [To ensure that an accurate colour code was used](https://www.w3schools.com/cssref/css_colors.php)
 
 
 
