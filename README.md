@@ -104,11 +104,14 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
 ### Responsiveness
 ![Responsiveness](./assets/images/responsiveness.png)
 
-## Unknown Bugs
+### Unfixed Bugs
+
+In the testing for responsiveness, the text overlay
+
 
 The register button border box has changed shape and its font color, but this has only happened on a mobile screen. The solution to this bug has still not been found. 
 
-![Bug](./assets/images/bugs.jpeg)
+![Bug](./assets/images/bugs-one.png)
 
 
 

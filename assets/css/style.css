@@ -64,14 +64,11 @@ h1, h2 {
     height: unset;
     width: 100%;
     overflow: hidden;
-    display: flex;
     position: relative;
     
 }
 
-#cover-text, #cover-text h2{
-    color: #fafafa;
-}
+
 
 #home-image {
     height: 600px;
@@ -98,6 +95,7 @@ h1, h2 {
 }
 
 #cover-text {
+    color: #fafafa;
     text-align: center;
     font-size: 140%;
     font-family: Montserrat, sans-serif;
@@ -106,15 +104,18 @@ h1, h2 {
     width: 300px;
     height: 250px;
 
-    padding-top: 50px;
+    padding-top: 30px;
     padding-left: 5px;
 
     background: rgba(92, 64, 51, 0.6);
 
-    bottom: 20px;
-    right: 150px;
    
     position: absolute;
+    bottom: 50px;
+    left: 20px;
+    
+    
+    
 }
 
 /* about us */
