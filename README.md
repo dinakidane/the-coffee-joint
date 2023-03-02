@@ -106,13 +106,17 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
 
 ### Unfixed Bugs
 
-In the testing for responsiveness, the text overlay
-
-
 The register button border box has changed shape and its font color, but this has only happened on a mobile screen. The solution to this bug has still not been found. 
 
 ![Bug](./assets/images/bugs-one.png)
 
+### Fixed Bugs
+
+- The text overlay on the landing page wasn't clearly visible in a mobile screen because it got cut off. 
+- The position of the text overlay has changed and now the text overlay is visible on an Iphone 11, as well as the other phones shown below.
+- The change was edited in the style.css.
+
+![Fixed Bug](./assets/images/fixed-bugs.png)
 
 
 
