@@ -113,6 +113,21 @@ The Coffee Joint website facilitates the promotion of a fictitious London-based 
 
 - Pairing the Roboto and Montserrat font styles together was to bring out a modern feel to the website, as well as maintain simplicity and a clear read for the user. 
 
+## Technologies Used 
+
+### Languages used 
+
+- HTML
+- CSS3
+
+### Frameworks, Libraries & Programs Used
+
+- [Google Fonts](https://fonts.google.com/) was imported onto the style.css file to ensure that Robot and Montserrat was used throughout the site
+- [Font Awesome](https://fontawesome.com/v5/search) was used to insert icons for the social media platforms and the icons in the home and menu page to represent the subtitle that it was next to. This was used to enhance aestheic appeal.
+- [Git](https://git-scm.com/) committing to Git and pushing to github allowed the utlisation of the gitpod terminal.
+- [Github](https://github.com/) The code that has been pushed from Git has been stored in github
+
+
 ## Testing
 
 ### Validator Testing
